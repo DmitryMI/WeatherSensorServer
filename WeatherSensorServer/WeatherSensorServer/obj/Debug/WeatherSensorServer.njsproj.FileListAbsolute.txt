@@ -1,0 +1,2 @@
+C:\Users\Dmitry\Documents\GitHub\WeatherSensorServer\WeatherSensorServer\WeatherSensorServer\obj\Debug\WeatherSensorServer.njsprojAssemblyReference.cache
+C:\Users\Dmitry\Documents\GitHub\WeatherSensorServer\WeatherSensorServer\WeatherSensorServer\bin\Microsoft.NodejsTools.WebRole.dll
